@@ -1,0 +1,4 @@
+We have not inlcuded other non-domestical tournaments due to the overlap of players in different competitions
+This would require more computing and more variables to think about
+
+The datasets are from 8th of October 2025, Brasileiro, Argentina, MLS are from this latest date, and have not yet finished their seasons
