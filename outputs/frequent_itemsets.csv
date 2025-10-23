@@ -1,0 +1,62 @@
+support,itemsets
+0.47839408346539886,frozenset({'Coffee'})
+0.32720549392498677,frozenset({'Bread'})
+0.14263074484944532,frozenset({'Tea'})
+0.10385631273111463,frozenset({'Cake'})
+0.09001584786053883,"frozenset({'Coffee', 'Bread'})"
+0.0861067089276281,frozenset({'Pastry'})
+0.07184363444268357,frozenset({'Sandwich'})
+0.061806656101426306,frozenset({'Medialuna'})
+0.05832012678288431,frozenset({'Hot chocolate'})
+0.054727945060750134,"frozenset({'Cake', 'Coffee'})"
+0.054410987849973586,frozenset({'Cookies'})
+0.049867934495509775,"frozenset({'Coffee', 'Tea'})"
+0.04754358161648178,"frozenset({'Coffee', 'Pastry'})"
+0.04004226096143687,frozenset({'Brownie'})
+0.03919704173269942,frozenset({'Farm House'})
+0.03856312731114633,frozenset({'Juice'})
+0.03845747490755415,frozenset({'Muffin'})
+0.038246170100369785,"frozenset({'Sandwich', 'Coffee'})"
+0.036344426835710514,frozenset({'Alfajores'})
+0.03518225039619651,"frozenset({'Coffee', 'Medialuna'})"
+0.03454833597464342,frozenset({'Scone'})
+0.03444268357105124,frozenset({'Soup'})
+0.03359746434231379,frozenset({'Toast'})
+0.029582673005810883,"frozenset({'Hot chocolate', 'Coffee'})"
+0.029160063391442156,"frozenset({'Bread', 'Pastry'})"
+0.029054410987849975,frozenset({'Scandinavian'})
+0.02820919175911252,"frozenset({'Coffee', 'Cookies'})"
+0.02810353935552034,"frozenset({'Tea', 'Bread'})"
+0.02377179080824089,"frozenset({'Cake', 'Tea'})"
+0.023666138404648707,"frozenset({'Toast', 'Coffee'})"
+0.02334918119387216,"frozenset({'Cake', 'Bread'})"
+0.020602218700475437,"frozenset({'Coffee', 'Juice'})"
+0.02028526148969889,frozenset({'Truffles'})
+0.0196513470681458,"frozenset({'Coffee', 'Brownie'})"
+0.0196513470681458,"frozenset({'Coffee', 'Alfajores'})"
+0.019440042260961438,frozenset({'Coke'})
+0.018806127839408347,"frozenset({'Muffin', 'Coffee'})"
+0.018172213417855257,frozenset({'Spanish Brunch'})
+0.018066561014263075,"frozenset({'Coffee', 'Scone'})"
+0.017010036978341258,"frozenset({'Sandwich', 'Bread'})"
+0.016904384574749076,"frozenset({'Bread', 'Medialuna'})"
+0.016059165346011622,frozenset({'Baguette'})
+0.01584786053882726,"frozenset({'Coffee', 'Soup'})"
+0.015425250924458532,frozenset({'Tiffin'})
+0.015002641310089805,frozenset({'Jam'})
+0.015002641310089805,frozenset({'Fudge'})
+0.014474379292128896,"frozenset({'Cookies', 'Bread'})"
+0.014368726888536715,"frozenset({'Sandwich', 'Tea'})"
+0.014157422081352351,frozenset({'Mineral water'})
+0.01341785525620708,"frozenset({'Hot chocolate', 'Bread'})"
+0.013206550449022716,frozenset({'Jammie Dodgers'})
+0.012995245641838352,frozenset({'Chicken Stew'})
+0.011410459587955626,"frozenset({'Cake', 'Hot chocolate'})"
+0.011199154780771263,"frozenset({'Coffee', 'Bread', 'Pastry'})"
+0.010882197569994718,"frozenset({'Coffee', 'Spanish Brunch'})"
+0.010776545166402536,"frozenset({'Bread', 'Brownie'})"
+0.010565240359218173,frozenset({'Hearty & Seasonal'})
+0.010459587955625991,frozenset({'Salad'})
+0.01035393555203381,"frozenset({'Bread', 'Alfajores'})"
+0.010036978341257264,"frozenset({'Cake', 'Coffee', 'Bread'})"
+0.010036978341257264,"frozenset({'Cake', 'Coffee', 'Tea'})"

@@ -1,7 +1,6 @@
 pandas
 numpy
+mlxtend
 scikit-learn
-umap-learn
 matplotlib
-plotly
 pyyaml
