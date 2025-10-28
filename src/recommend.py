@@ -77,7 +77,7 @@ def recommend_verbose(basket, rules, k=5):
 if __name__ == "__main__":
     rule_table, rules = load_rules("outputs/rules.csv")
 
-    basket = ["Soup"]
+    basket = ["Cake"]  # Insert items in the basket here
     recommendations = recommend_verbose(basket, rules)
 
     print(f"\nRecommendations for basket: {basket}")
