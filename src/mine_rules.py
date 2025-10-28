@@ -1,4 +1,3 @@
-# src/mine_rules.py
 import pandas as pd
 from pathlib import Path
 from mlxtend.preprocessing import TransactionEncoder
